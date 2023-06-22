@@ -1,0 +1,1 @@
+import{x as e,o as _,i as s}from"./entry.76afd329.js";const o={},c={class:"docs-hr"};function r(t,a){return _(),s("hr",c)}const d=e(o,[["render",r],["__scopeId","data-v-341b6a73"]]);export{d as default};

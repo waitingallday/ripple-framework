@@ -1,0 +1,1 @@
+import{_ as e}from"./RplContent.css.7fb67b86.js";import{x as n,o as s,c,w as r,H as a}from"./entry.76afd329.js";const _={};function f(t,l){const o=e;return s(),c(o,null,{default:r(()=>[a(t.$slots,"default")]),_:3})}const d=n(_,[["render",f]]);export{d as default};

@@ -1,0 +1,1 @@
+import{x as o,o as t,i as s,H as c}from"./entry.76afd329.js";const r={},l={class:"rpl-callout"};function a(e,n){return t(),s("blockquote",l,[c(e.$slots,"default")])}const f=o(r,[["render",a]]);export{f as default};

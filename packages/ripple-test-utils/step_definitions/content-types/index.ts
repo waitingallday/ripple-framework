@@ -1,7 +1,0 @@
-import './errors'
-import './event'
-import './grant'
-import './landing-page'
-import './media'
-import './news'
-import './publication'

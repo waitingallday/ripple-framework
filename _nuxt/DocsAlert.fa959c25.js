@@ -1,0 +1,1 @@
+import{x as r,o as s,i as o,H as t}from"./entry.76afd329.js";const a={},c={class:"border rounded p-6 bg-slate-50 dark:bg-slate-800 border-slate-400 my-4"};function n(e,d){return s(),o("div",c,[t(e.$slots,"default")])}const _=r(a,[["render",n]]);export{_ as default};

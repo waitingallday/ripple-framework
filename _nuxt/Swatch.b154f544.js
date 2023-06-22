@@ -1,0 +1,1 @@
+import{a as o,o as t,i as a,P as _,x as c}from"./entry.76afd329.js";const s=o({__name:"Swatch",props:{colour:{},type:{default:"color"}},setup(n){return(e,l)=>(t(),a("div",{class:"docs-colour-swatch",style:_({background:e.colour})},null,4))}});const p=c(s,[["__scopeId","data-v-a0076e87"]]);export{p as default};

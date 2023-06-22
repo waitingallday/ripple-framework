@@ -1,0 +1,1 @@
+import{a as o,o as r,i as s,H as n}from"./entry.76afd329.js";const t=["href"],_=o({__name:"RplLink",props:{url:{}},setup(a){return(e,p)=>(r(),s("a",{href:e.url},[n(e.$slots,"default")],8,t))}});export{_};
