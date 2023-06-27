@@ -16,3 +16,7 @@ _Ripple 2_ is a ground-up redevelopment using the newest versions of Vue and Nux
 ## License
 
 Distributed under the Apache 2.0 License. See `LICENSE` for more information.
+
+## Testing stack blitz
+
+I hope it works
